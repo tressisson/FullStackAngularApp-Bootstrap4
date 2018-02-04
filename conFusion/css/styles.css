@@ -37,3 +37,8 @@ body{
 .navbar-inverse {
      background-color: #512DA8;
 }
+
+#reserveTable {
+    color:white;
+    background-color: darkgoldenrod;
+}
